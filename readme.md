@@ -1,3 +1,3 @@
 # MessageBus
 
-A toy message bug implementation.
+A toy message bus implementation.
